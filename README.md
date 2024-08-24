@@ -1,7 +1,3 @@
-<p align="center">
-  <img style="width:100%"; src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
-
 # Hi, I'm Madhanadeva D! 👋
 I am a passionate B.Tech AI & DS student at Dr. Mahalingam College of Engineering and Technology, driven by a curiosity for technology and a love for development. My journey involves delving into the world of computer science, exploring new ideas, and sharing my projects with the community.
 
