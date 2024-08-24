@@ -1,3 +1,7 @@
+<p align="center">
+  <img style="width:100%"; src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 # Hi, I'm Madhanadeva D! 👋
 I am a passionate B.Tech AI & DS student at Dr. Mahalingam College of Engineering and Technology, driven by a curiosity for technology and a love for development. My journey involves delving into the world of computer science, exploring new ideas, and sharing my projects with the community.
 
@@ -13,11 +17,17 @@ I am a passionate B.Tech AI & DS student at Dr. Mahalingam College of Engineerin
 - Exploring web development frameworks and tools to build more interactive applications.
 - Interested in sustainability and data-driven solutions for environmental challenges.
 
-# 🏆 Achievements
+## 🏆 Achievements
 - Completed various certifications in machine learning and web development from platforms like AWS Academy, Coursera, and Udemy.
 
-# 📬 Get in Touch
-- Connect with me on LinkedIn - <a href="https://www.linkedin.com/in/madhanadeva-d-0a6347226/">👆</a>
-- Check out my GitHub for more of my projects
-- Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+## Connect with me:
+<p align = "center">
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
+
+<div align="center">
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 
+</div>
 
