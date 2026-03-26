@@ -1,5 +1,5 @@
 # Hi, I'm Madhanadeva! 👋
-I am a passionate B.Tech AI & DS student at Dr. Mahalingam College of Engineering and Technology, driven by a curiosity for technology and a love for development. My journey involves delving into the world of computer science, exploring new ideas, and sharing my projects with the community.
+I am a passionate B.Tech Artificial Intelligence & Data Science graduate at Dr. Mahalingam College of Engineering and Technology, driven by a curiosity for technology and a love for development. My journey involves delving into the world of computer science, exploring new ideas, and sharing my projects with the community.
 
 ## 🚀 About Me
 - 🔭 I'm completed my B.Tech in Artificial Intelligence & Data Science at Dr. Mahalingam College of Engineering and Technology.
