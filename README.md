@@ -23,6 +23,6 @@ I am a passionate B.Tech Artificial Intelligence & Data Science graduate at Dr. 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:madhanadeva2683@gmail.com)
 
 <div align="center">
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🙂
 </div>
 
