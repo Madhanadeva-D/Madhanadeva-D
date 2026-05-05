@@ -1,26 +1,21 @@
 <!-- ================== BANNER ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=👋%20Hi%2C%20I'm%20Madhanadeva%20D&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=👋%20Hi%2C%20I'm%20Madhanadeva%20D&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Generative%20AI%20%7C%20Data%20Analytics%20%7C%20Web%20Development&descSize=16&descAlign=50&descAlignY=75" />
 </p>
 
-<!-- ================== INTRO ================== -->
-<h3 align="center">🚀 Machine learning | Data Science | Gen AI | Data Analyst | Web Design
-
 ---
+
 
 # 🧠 About Me  
 
 🎓 AI & Data Science Graduate (CGPA: 8.19)  
-💼 Data Science Intern @ Besant Technology  
-🌐 Web Developer Intern @ Open Weaver  
+💼 Data Science Intern @Besant Technology  
+🌐 Web Developer Intern @Open Weaver  
 
-💡 I design and build **AI-powered systems** using:
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Multimodal AI (Text + Image)
-- Data-driven analytics & dashboards  
+I’m interested in **Machine Learning, Generative AI, and Data Analysis**.  
+I like solving problems using data and building practical AI solutions.  
 
-🔥 Strong focus on **real-world AI deployment, scalability, and performance**
+⚡ Focused on learning, improving, and applying AI in real-world use cases.
 
 ---
 
@@ -28,57 +23,63 @@
 
 ### 🤖 Generative AI  
 - LLM Integration (OpenAI / OpenRouter / HuggingFace)  
-- RAG Pipelines (LangChain + Vector DBs)  
+- RAG Pipelines using LangChain & Vector Databases  
 - Prompt Engineering & Context Optimization  
 - AI Assistants & Chatbots  
 
 ### 📊 Data Science & Analytics  
 - Data Cleaning, EDA, Feature Engineering  
-- ML Model Building & Evaluation  
+- Machine Learning Model Development & Evaluation  
 - Dashboarding (Power BI, Tableau)  
-- KPI & Business Insights  
+- KPI Tracking & Business Insights  
 
-### 🧩 Backend & Deployment  
+### ⚙️ Backend & Deployment  
 - FastAPI for AI APIs  
-- Streamlit for rapid AI apps  
+- Streamlit for rapid AI applications  
 - MySQL & Data Handling  
-- Git & Version Control  
+- Version Control using Git & GitHub  
 
 ---
 
-# 🛠️ Tech Stack  
+# 🛠️ Technical Skills  
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,tensorflow,pytorch,sklearn,fastapi,mysql,git,github,vscode" />
-</p>
+### 💻 Programming  
+- Python, SQL  
 
-<p align="center">
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
-</p>
+### 🤖 Machine Learning  
+- NumPy, Pandas, Scikit-learn, Matplotlib  
+
+### 🧠 AI Technologies  
+- Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG)  
+- LangChain  
+- Prompt Engineering  
+
+### 📊 Data Analysis Tools  
+- Power BI, Tableau  
+
+### 📈 Power BI  
+- DAX  
+- Power Query (ETL)  
+- Data Modeling  
+- Dashboard Development  
+
+### ⚙️ Tools & Platforms  
+- MySQL  
+- FastAPI  
+- VS Code  
+- Jupyter Notebook  
+- Git  
+- GitHub  
+- Streamlit  
 
 ---
 
 # 🌱 Currently Exploring  
 
 🔹 Advanced LLM Architectures & AI Agents  
-🔹 Vector Databases (Milvus, FAISS)  
-🔹 Multimodal AI Systems  
 🔹 Scalable AI Backend Systems  
-🔹 Real-time AI applications  
-
----
-
-# ⚡ Key Strengths  
-
-✔️ End-to-end AI system development (Data → Model → API → UI)  
-✔️ Strong foundation in ML, DL, and Generative AI  
-✔️ Experience with real-world datasets (10K+ records)  
-✔️ Fast learner with strong problem-solving mindset  
-✔️ Ability to convert ideas into working AI products  
+🔹 Real-time AI Applications  
 
 ---
 
@@ -95,20 +96,22 @@
 
 ---
 
-# 🏆 Achievements & Certifications  
+# 🏆 Certifications  
 
 - 🎓 AWS Academy – Machine Learning Foundations  
 - 🤖 AWS Educate – Generative AI  
-- 📊 Coursera – Machine Learning & EDA  
-- 📈 Built AI solutions using **10K+ dataset records**  
-- 🧠 Developed multiple AI & GenAI applications  
-
+- 📊 Coursera – Machine Learning with Python
+- 📖 Coursera - Exploratory Data Analysis
+- 📈 Simplilearn - Power BI for Beginners
+- 🧾 Forage - Data Visualisation: Empowering Business with Effective Insights
+- 🤵 TCS iON - Young Professional 
+ 
 ---
 
 # 📈 Career Vision  
 
 🚀 Aspiring to become a **Data Scientist / AI Engineer**  
-💡 Focused on building **scalable AI products**  
+💡 Passionate about building **intelligent and scalable AI systems**  
 🌍 Interested in **AI for real-world impact & sustainability**  
 
 ---
@@ -117,7 +120,7 @@
 
 <p align="center">
 
-<a href="https://drive.google.com/file/d/1NhkrUSWhYdFQqZpZ7mEV9gyemM2sqBEN/view">
+<a href="https://drive.google.com/file/d/13UQiPbyrsfqbuoOrFWggNRn8e8GOXcyR/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-drive"/>
 </a>
 
@@ -149,6 +152,6 @@
 
 ✨ *"I don’t just build models, I build intelligent systems."*  
 
-🔥 Open to **AI Engineer / GenAI / ML Engineer / Data Analyst roles**
+🔥 Open to **AI Engineer | ML Engineer | Data Scientist | GenAI roles**
 
 </div>
