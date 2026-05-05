@@ -1,28 +1,154 @@
-# Hi, I'm Madhanadeva! 👋
-I am a passionate B.Tech Artificial Intelligence & Data Science graduate at Dr. Mahalingam College of Engineering and Technology, driven by a curiosity for technology and a love for development. My journey involves delving into the world of computer science, exploring new ideas, and sharing my projects with the community.
+<!-- ================== BANNER ================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=👋%20Hi%2C%20I'm%20Madhanadeva%20D&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-## 🚀 About Me
-- 🔭 I'm completed my B.Tech in Artificial Intelligence & Data Science at Dr. Mahalingam College of Engineering and Technology.
-- 🌐 I have interned as a Web Developer at Open Weaver, where I designed and developed responsive web pages.
-- 📝 I enjoy working on diverse projects, which you can check out on my GitHub.
-- ✍️ I’m keen on expanding my knowledge in Data Science, AI and web design.
-  
-## 🌱 Currently Exploring
-- Learning advanced concepts in LLM, RAG, Gen AI and VectorBase.
-- Experimenting with TensorFlow and PyTorch for deep learning applications.
-- Interested in sustainability and data-driven solutions for environmental challenges.
+<!-- ================== INTRO ================== -->
+<h3 align="center">🚀 Machine learning | Data Science | Gen AI | Data Analyst | Web Design
 
-## 🏆 Achievements
-- Completed various certifications from AWS Academy, Coursera, and Udemy.
+---
 
-## Connect with me:
-[<img alt="Resume" src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white" />](https://drive.google.com/file/d/1NhkrUSWhYdFQqZpZ7mEV9gyemM2sqBEN/view?usp=sharing)
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/Madhanadeva-D) 
-[<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/madhanadeva_d) 
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/madhanadeva-d-0a6347226/)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:madhanadeva2683@gmail.com)
+# 🧠 About Me  
+
+🎓 AI & Data Science Graduate (CGPA: 8.19)  
+💼 Data Science Intern @ Besant Technology  
+🌐 Web Developer Intern @ Open Weaver  
+
+💡 I design and build **AI-powered systems** using:
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Multimodal AI (Text + Image)
+- Data-driven analytics & dashboards  
+
+🔥 Strong focus on **real-world AI deployment, scalability, and performance**
+
+---
+
+# 🚀 Core Expertise  
+
+### 🤖 Generative AI  
+- LLM Integration (OpenAI / OpenRouter / HuggingFace)  
+- RAG Pipelines (LangChain + Vector DBs)  
+- Prompt Engineering & Context Optimization  
+- AI Assistants & Chatbots  
+
+### 📊 Data Science & Analytics  
+- Data Cleaning, EDA, Feature Engineering  
+- ML Model Building & Evaluation  
+- Dashboarding (Power BI, Tableau)  
+- KPI & Business Insights  
+
+### 🧩 Backend & Deployment  
+- FastAPI for AI APIs  
+- Streamlit for rapid AI apps  
+- MySQL & Data Handling  
+- Git & Version Control  
+
+---
+
+# 🛠️ Tech Stack  
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,sql,tensorflow,pytorch,sklearn,fastapi,mysql,git,github,vscode" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
+</p>
+
+---
+
+# 🌱 Currently Exploring  
+
+🔹 Advanced LLM Architectures & AI Agents  
+🔹 Vector Databases (Milvus, FAISS)  
+🔹 Multimodal AI Systems  
+🔹 Scalable AI Backend Systems  
+🔹 Real-time AI applications  
+
+---
+
+# ⚡ Key Strengths  
+
+✔️ End-to-end AI system development (Data → Model → API → UI)  
+✔️ Strong foundation in ML, DL, and Generative AI  
+✔️ Experience with real-world datasets (10K+ records)  
+✔️ Fast learner with strong problem-solving mindset  
+✔️ Ability to convert ideas into working AI products  
+
+---
+
+# 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhanadeva-D&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhanadeva-D&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhanadeva-D&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 Achievements & Certifications  
+
+- 🎓 AWS Academy – Machine Learning Foundations  
+- 🤖 AWS Educate – Generative AI  
+- 📊 Coursera – Machine Learning & EDA  
+- 📈 Built AI solutions using **10K+ dataset records**  
+- 🧠 Developed multiple AI & GenAI applications  
+
+---
+
+# 📈 Career Vision  
+
+🚀 Aspiring to become a **Data Scientist / AI Engineer**  
+💡 Focused on building **scalable AI products**  
+🌍 Interested in **AI for real-world impact & sustainability**  
+
+---
+
+# 📫 Connect With Me  
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1NhkrUSWhYdFQqZpZ7mEV9gyemM2sqBEN/view">
+  <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-drive"/>
+</a>
+
+<a href="https://github.com/Madhanadeva-D">
+  <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/madhanadeva-d-0a6347226/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/madhanadeva_d">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
+</a>
+
+</p>
+
+---
+
+# 🔥 Fun Section  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
 
 <div align="center">
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🙂
-</div>
 
+✨ *"I don’t just build models, I build intelligent systems."*  
+
+🔥 Open to **AI Engineer / GenAI / ML Engineer / Data Analyst roles**
+
+</div>
