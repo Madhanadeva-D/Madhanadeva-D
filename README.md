@@ -6,7 +6,7 @@
 ---
 
 
-# 🧠 About Me  
+# 🧠 About Me   
 
 🎓 AI & Data Science Graduate (CGPA: 8.19)  
 💼 Data Science Intern @Besant Technology  
